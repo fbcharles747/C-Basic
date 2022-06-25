@@ -1,0 +1,16 @@
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\bin\Debug\net5.0\LoopChallenge.exe
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\bin\Debug\net5.0\LoopChallenge.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\bin\Debug\net5.0\LoopChallenge.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\bin\Debug\net5.0\LoopChallenge.runtimeconfig.dev.json
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\bin\Debug\net5.0\LoopChallenge.dll
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\bin\Debug\net5.0\LoopChallenge.pdb
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\obj\Debug\net5.0\LoopChallenge.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\obj\Debug\net5.0\LoopChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\obj\Debug\net5.0\LoopChallenge.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\obj\Debug\net5.0\LoopChallenge.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\obj\Debug\net5.0\LoopChallenge.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\obj\Debug\net5.0\LoopChallenge.dll
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\obj\Debug\net5.0\refint\LoopChallenge.dll
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\obj\Debug\net5.0\LoopChallenge.pdb
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\obj\Debug\net5.0\LoopChallenge.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\LoopChallenge\LoopChallenge\obj\Debug\net5.0\ref\LoopChallenge.dll

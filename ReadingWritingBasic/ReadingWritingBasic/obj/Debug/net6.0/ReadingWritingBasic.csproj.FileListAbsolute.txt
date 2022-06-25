@@ -1,0 +1,15 @@
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\bin\Debug\net6.0\ReadingWritingBasic.exe
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\bin\Debug\net6.0\ReadingWritingBasic.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\bin\Debug\net6.0\ReadingWritingBasic.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\bin\Debug\net6.0\ReadingWritingBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\bin\Debug\net6.0\ReadingWritingBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\obj\Debug\net6.0\ReadingWritingBasic.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\obj\Debug\net6.0\ReadingWritingBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\obj\Debug\net6.0\ReadingWritingBasic.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\obj\Debug\net6.0\ReadingWritingBasic.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\obj\Debug\net6.0\ReadingWritingBasic.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\obj\Debug\net6.0\ReadingWritingBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\obj\Debug\net6.0\refint\ReadingWritingBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\obj\Debug\net6.0\ReadingWritingBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\obj\Debug\net6.0\ReadingWritingBasic.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\ReadingWritingBasic\ReadingWritingBasic\obj\Debug\net6.0\ref\ReadingWritingBasic.dll

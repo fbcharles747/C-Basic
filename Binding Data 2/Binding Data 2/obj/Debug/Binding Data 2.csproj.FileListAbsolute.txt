@@ -1,0 +1,16 @@
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\bin\Debug\Binding Data 2.exe.config
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\bin\Debug\Binding Data 2.exe
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\bin\Debug\Binding Data 2.pdb
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\obj\Debug\Binding Data 2.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\obj\Debug\Binding Data 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\obj\Debug\MainWindow.g.cs
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\obj\Debug\App.g.cs
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\obj\Debug\Binding Data 2_MarkupCompile.cache
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\obj\Debug\Binding Data 2_MarkupCompile.lref
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\obj\Debug\MainWindow.baml
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\obj\Debug\Binding Data 2.g.resources
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\obj\Debug\Binding_Data_2.Properties.Resources.resources
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\obj\Debug\Binding Data 2.csproj.GenerateResource.cache
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\obj\Debug\Binding Data 2.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\obj\Debug\Binding Data 2.exe
+C:\Users\camel\C#WorkSpace\C#basic\Binding Data 2\Binding Data 2\obj\Debug\Binding Data 2.pdb

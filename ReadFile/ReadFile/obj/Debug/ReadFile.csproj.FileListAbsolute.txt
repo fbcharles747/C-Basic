@@ -1,0 +1,3 @@
+C:\Users\camel\C#WorkSpace\C#basic\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\camel\C#WorkSpace\C#basic\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.CoreCompileInputs.cache

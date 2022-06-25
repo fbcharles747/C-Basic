@@ -1,0 +1,16 @@
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\obj\Debug\net5.0\AbstractionBasic.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\obj\Debug\net5.0\AbstractionBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\obj\Debug\net5.0\AbstractionBasic.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\obj\Debug\net5.0\AbstractionBasic.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\obj\Debug\net5.0\AbstractionBasic.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\bin\Debug\net5.0\AbstractionBasic.exe
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\bin\Debug\net5.0\AbstractionBasic.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\bin\Debug\net5.0\AbstractionBasic.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\bin\Debug\net5.0\AbstractionBasic.runtimeconfig.dev.json
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\bin\Debug\net5.0\AbstractionBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\bin\Debug\net5.0\AbstractionBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\obj\Debug\net5.0\AbstractionBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\obj\Debug\net5.0\refint\AbstractionBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\obj\Debug\net5.0\AbstractionBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\obj\Debug\net5.0\AbstractionBasic.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\AbstractionBasic\AbstractionBasic\obj\Debug\net5.0\ref\AbstractionBasic.dll

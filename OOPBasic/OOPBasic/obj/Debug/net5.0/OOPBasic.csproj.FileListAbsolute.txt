@@ -1,0 +1,16 @@
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\bin\Debug\net5.0\OOPBasic.exe
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\bin\Debug\net5.0\OOPBasic.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\bin\Debug\net5.0\OOPBasic.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\bin\Debug\net5.0\OOPBasic.runtimeconfig.dev.json
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\bin\Debug\net5.0\OOPBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\bin\Debug\net5.0\OOPBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\obj\Debug\net5.0\OOPBasic.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\obj\Debug\net5.0\OOPBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\obj\Debug\net5.0\OOPBasic.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\obj\Debug\net5.0\OOPBasic.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\obj\Debug\net5.0\OOPBasic.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\obj\Debug\net5.0\OOPBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\obj\Debug\net5.0\refint\OOPBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\obj\Debug\net5.0\OOPBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\obj\Debug\net5.0\OOPBasic.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\OOPBasic\OOPBasic\obj\Debug\net5.0\ref\OOPBasic.dll

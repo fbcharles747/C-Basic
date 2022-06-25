@@ -1,0 +1,16 @@
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\bin\Debug\net5.0\StackBasic.exe
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\bin\Debug\net5.0\StackBasic.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\bin\Debug\net5.0\StackBasic.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\bin\Debug\net5.0\StackBasic.runtimeconfig.dev.json
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\bin\Debug\net5.0\StackBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\bin\Debug\net5.0\StackBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\obj\Debug\net5.0\StackBasic.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\obj\Debug\net5.0\StackBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\obj\Debug\net5.0\StackBasic.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\obj\Debug\net5.0\StackBasic.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\obj\Debug\net5.0\StackBasic.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\obj\Debug\net5.0\StackBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\obj\Debug\net5.0\refint\StackBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\obj\Debug\net5.0\StackBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\obj\Debug\net5.0\StackBasic.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\StackBasic\StackBasic\obj\Debug\net5.0\ref\StackBasic.dll

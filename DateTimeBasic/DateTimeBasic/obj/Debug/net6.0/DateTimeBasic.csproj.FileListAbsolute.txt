@@ -1,0 +1,15 @@
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\bin\Debug\net6.0\DateTimeBasic.exe
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\bin\Debug\net6.0\DateTimeBasic.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\bin\Debug\net6.0\DateTimeBasic.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\bin\Debug\net6.0\DateTimeBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\bin\Debug\net6.0\DateTimeBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\obj\Debug\net6.0\DateTimeBasic.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\obj\Debug\net6.0\DateTimeBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\obj\Debug\net6.0\DateTimeBasic.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\obj\Debug\net6.0\DateTimeBasic.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\obj\Debug\net6.0\DateTimeBasic.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\obj\Debug\net6.0\DateTimeBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\obj\Debug\net6.0\refint\DateTimeBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\obj\Debug\net6.0\DateTimeBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\obj\Debug\net6.0\DateTimeBasic.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\DateTimeBasic\DateTimeBasic\obj\Debug\net6.0\ref\DateTimeBasic.dll

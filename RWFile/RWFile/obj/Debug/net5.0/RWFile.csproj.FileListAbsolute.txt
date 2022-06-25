@@ -1,0 +1,16 @@
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\bin\Debug\net5.0\RWFile.exe
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\bin\Debug\net5.0\RWFile.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\bin\Debug\net5.0\RWFile.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\bin\Debug\net5.0\RWFile.runtimeconfig.dev.json
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\bin\Debug\net5.0\RWFile.dll
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\bin\Debug\net5.0\RWFile.pdb
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\obj\Debug\net5.0\RWFile.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\obj\Debug\net5.0\RWFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\obj\Debug\net5.0\RWFile.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\obj\Debug\net5.0\RWFile.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\obj\Debug\net5.0\RWFile.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\obj\Debug\net5.0\RWFile.dll
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\obj\Debug\net5.0\refint\RWFile.dll
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\obj\Debug\net5.0\RWFile.pdb
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\obj\Debug\net5.0\RWFile.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\RWFile\RWFile\obj\Debug\net5.0\ref\RWFile.dll

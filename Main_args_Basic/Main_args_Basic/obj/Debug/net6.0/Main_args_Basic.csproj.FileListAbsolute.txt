@@ -1,0 +1,15 @@
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\bin\Debug\net6.0\Main_args_Basic.exe
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\bin\Debug\net6.0\Main_args_Basic.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\bin\Debug\net6.0\Main_args_Basic.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\bin\Debug\net6.0\Main_args_Basic.dll
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\bin\Debug\net6.0\Main_args_Basic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\obj\Debug\net6.0\Main_args_Basic.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\obj\Debug\net6.0\Main_args_Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\obj\Debug\net6.0\Main_args_Basic.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\obj\Debug\net6.0\Main_args_Basic.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\obj\Debug\net6.0\Main_args_Basic.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\obj\Debug\net6.0\Main_args_Basic.dll
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\obj\Debug\net6.0\refint\Main_args_Basic.dll
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\obj\Debug\net6.0\Main_args_Basic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\obj\Debug\net6.0\Main_args_Basic.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\Main_args_Basic\Main_args_Basic\obj\Debug\net6.0\ref\Main_args_Basic.dll

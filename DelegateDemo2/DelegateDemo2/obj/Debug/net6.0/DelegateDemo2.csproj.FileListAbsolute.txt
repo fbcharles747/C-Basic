@@ -1,0 +1,15 @@
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\bin\Debug\net6.0\DelegateDemo2.exe
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\bin\Debug\net6.0\DelegateDemo2.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\bin\Debug\net6.0\DelegateDemo2.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\bin\Debug\net6.0\DelegateDemo2.dll
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\bin\Debug\net6.0\DelegateDemo2.pdb
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\obj\Debug\net6.0\DelegateDemo2.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\obj\Debug\net6.0\DelegateDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\obj\Debug\net6.0\DelegateDemo2.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\obj\Debug\net6.0\DelegateDemo2.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\obj\Debug\net6.0\DelegateDemo2.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\obj\Debug\net6.0\DelegateDemo2.dll
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\obj\Debug\net6.0\refint\DelegateDemo2.dll
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\obj\Debug\net6.0\DelegateDemo2.pdb
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\obj\Debug\net6.0\DelegateDemo2.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\DelegateDemo2\DelegateDemo2\obj\Debug\net6.0\ref\DelegateDemo2.dll

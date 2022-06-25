@@ -1,0 +1,21 @@
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\bin\Debug\net6.0-windows\Dependency Property.exe
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\bin\Debug\net6.0-windows\Dependency Property.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\bin\Debug\net6.0-windows\Dependency Property.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\bin\Debug\net6.0-windows\Dependency Property.dll
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\bin\Debug\net6.0-windows\Dependency Property.pdb
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\Dependency Property.vbproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\Dependency Property_MarkupCompile.cache
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\Dependency Property_MarkupCompile.lref
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\Dependency Property.g.resources
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\Dependency Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\Dependency Property.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\Dependency Property.AssemblyInfo.vb
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\Dependency Property.vbproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\Dependency Property.dll
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\refint\Dependency Property.dll
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\Dependency Property.pdb
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\Dependency Property.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\Dependency Property\Dependency Property\obj\Debug\net6.0-windows\ref\Dependency Property.dll

@@ -1,0 +1,16 @@
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\bin\Debug\net5.0\HashTableBasic.exe
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\bin\Debug\net5.0\HashTableBasic.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\bin\Debug\net5.0\HashTableBasic.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\bin\Debug\net5.0\HashTableBasic.runtimeconfig.dev.json
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\bin\Debug\net5.0\HashTableBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\bin\Debug\net5.0\HashTableBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\obj\Debug\net5.0\HashTableBasic.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\obj\Debug\net5.0\HashTableBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\obj\Debug\net5.0\HashTableBasic.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\obj\Debug\net5.0\HashTableBasic.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\obj\Debug\net5.0\HashTableBasic.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\obj\Debug\net5.0\HashTableBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\obj\Debug\net5.0\refint\HashTableBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\obj\Debug\net5.0\HashTableBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\obj\Debug\net5.0\HashTableBasic.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\HashTableBasic\HashTableBasic\obj\Debug\net5.0\ref\HashTableBasic.dll

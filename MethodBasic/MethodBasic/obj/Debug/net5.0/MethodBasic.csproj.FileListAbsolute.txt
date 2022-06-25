@@ -1,0 +1,16 @@
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\bin\Debug\net5.0\MethodBasic.exe
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\bin\Debug\net5.0\MethodBasic.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\bin\Debug\net5.0\MethodBasic.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\bin\Debug\net5.0\MethodBasic.runtimeconfig.dev.json
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\bin\Debug\net5.0\MethodBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\bin\Debug\net5.0\MethodBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\obj\Debug\net5.0\MethodBasic.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\obj\Debug\net5.0\MethodBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\obj\Debug\net5.0\MethodBasic.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\obj\Debug\net5.0\MethodBasic.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\obj\Debug\net5.0\MethodBasic.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\obj\Debug\net5.0\MethodBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\obj\Debug\net5.0\refint\MethodBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\obj\Debug\net5.0\MethodBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\obj\Debug\net5.0\MethodBasic.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\MethodBasic\MethodBasic\obj\Debug\net5.0\ref\MethodBasic.dll

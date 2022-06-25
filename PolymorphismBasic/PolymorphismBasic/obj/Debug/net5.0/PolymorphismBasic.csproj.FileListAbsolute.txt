@@ -1,0 +1,16 @@
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\bin\Debug\net5.0\PolymorphismBasic.exe
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\bin\Debug\net5.0\PolymorphismBasic.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\bin\Debug\net5.0\PolymorphismBasic.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\bin\Debug\net5.0\PolymorphismBasic.runtimeconfig.dev.json
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\bin\Debug\net5.0\PolymorphismBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\bin\Debug\net5.0\PolymorphismBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\obj\Debug\net5.0\PolymorphismBasic.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\obj\Debug\net5.0\PolymorphismBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\obj\Debug\net5.0\PolymorphismBasic.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\obj\Debug\net5.0\PolymorphismBasic.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\obj\Debug\net5.0\PolymorphismBasic.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\obj\Debug\net5.0\PolymorphismBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\obj\Debug\net5.0\refint\PolymorphismBasic.dll
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\obj\Debug\net5.0\PolymorphismBasic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\obj\Debug\net5.0\PolymorphismBasic.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\PolymorphismBasic\PolymorphismBasic\obj\Debug\net5.0\ref\PolymorphismBasic.dll

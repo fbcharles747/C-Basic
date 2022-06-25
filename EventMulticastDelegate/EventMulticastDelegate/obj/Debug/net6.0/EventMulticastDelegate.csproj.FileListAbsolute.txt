@@ -1,0 +1,15 @@
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\bin\Debug\net6.0\EventMulticastDelegate.exe
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\bin\Debug\net6.0\EventMulticastDelegate.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\bin\Debug\net6.0\EventMulticastDelegate.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\bin\Debug\net6.0\EventMulticastDelegate.dll
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\bin\Debug\net6.0\EventMulticastDelegate.pdb
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\obj\Debug\net6.0\EventMulticastDelegate.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\obj\Debug\net6.0\EventMulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\obj\Debug\net6.0\EventMulticastDelegate.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\obj\Debug\net6.0\EventMulticastDelegate.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\obj\Debug\net6.0\EventMulticastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\obj\Debug\net6.0\EventMulticastDelegate.dll
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\obj\Debug\net6.0\refint\EventMulticastDelegate.dll
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\obj\Debug\net6.0\EventMulticastDelegate.pdb
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\obj\Debug\net6.0\EventMulticastDelegate.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\EventMulticastDelegate\EventMulticastDelegate\obj\Debug\net6.0\ref\EventMulticastDelegate.dll

@@ -1,0 +1,15 @@
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\bin\Debug\net6.0\regular Expression basic.exe
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\bin\Debug\net6.0\regular Expression basic.deps.json
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\bin\Debug\net6.0\regular Expression basic.runtimeconfig.json
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\bin\Debug\net6.0\regular Expression basic.dll
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\bin\Debug\net6.0\regular Expression basic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\obj\Debug\net6.0\regular Expression basic.csproj.AssemblyReference.cache
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\obj\Debug\net6.0\regular Expression basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\obj\Debug\net6.0\regular Expression basic.AssemblyInfoInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\obj\Debug\net6.0\regular Expression basic.AssemblyInfo.cs
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\obj\Debug\net6.0\regular Expression basic.csproj.CoreCompileInputs.cache
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\obj\Debug\net6.0\regular Expression basic.dll
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\obj\Debug\net6.0\refint\regular Expression basic.dll
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\obj\Debug\net6.0\regular Expression basic.pdb
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\obj\Debug\net6.0\regular Expression basic.genruntimeconfig.cache
+C:\Users\camel\C#WorkSpace\C#basic\regular Expression basic\regular Expression basic\obj\Debug\net6.0\ref\regular Expression basic.dll
